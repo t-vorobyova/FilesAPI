@@ -121,7 +121,7 @@ Response header `File-API-Result` contains following JSON:
 }
 ```
 
-## download
+## upload
 uploads file
 
 ### Arguments
@@ -150,7 +150,7 @@ To start File API Server run:
 ```
 mvn exec:java
 ```
-Ti start unit tests run:
+To start unit tests run:
 ```
 mvn clean test
 ```
